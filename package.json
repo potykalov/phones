@@ -1,5 +1,5 @@
 {
-  "name": "PROJECT-NAME",
+  "name": "phones",
   "scripts": {
     "prod": "webpack --mode=production",
     "dev": "webpack --mode=development",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/potykalov/PROJECT-NAME.git"
+    "url": "git+https://github.com/potykalov/phones.git"
   },
   "author": "Dmitriy Potykalov <dmitriy.potykalov@gmail.com> (https://github.com/potykalov)",
   "license": "MIT",
   "type": "module",
   "bugs": {
-    "url": "https://github.com/potykalov/PROJECT-NAME/issues"
+    "url": "https://github.com/potykalov/phones/issues"
   },
-  "homepage": "https://github.com/potykalov/PROJECT-NAME#readme",
+  "homepage": "https://github.com/potykalov/phones#readme",
   "devDependencies": {
     "@babel/cli": "^8.0.4",
     "@babel/core": "^8.0.1",
